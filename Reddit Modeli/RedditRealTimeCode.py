@@ -1,3 +1,10 @@
+# Melisa Demir --> Bu kod Redditten çekilen verileri 5 dakikalık aralıklarla NLP modeli sayesinde analiz eder.
+#Olumsuz ve olumlu/tarafsız içerik oranları bir pasta grafiği ile görselleştirildi.
+#Grafiği oluşturmak için matplotlib kütüphanesi kullanıldı ve grafik bir dosyaya (reddit_analysis_pie_chart.png) kaydedildi.
+#time.sleep(1) ile terminalde kullanıcıya bir geri sayım gösteriliyor.
+#Olumsuz içerik oranı ve tarafsız içerik oranı yüzdelik olarak gösteriliyor.
+
+
 import praw   # Reddit API 'den veri çekmek için kullanılan kütüphanedir
 import datetime
 import csv   # Verileri CSV dosyasına kaydetmek için kullanılır

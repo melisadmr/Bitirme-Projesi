@@ -43,5 +43,5 @@ Analiz şunlara odaklanır:
 - Daha fazla sosyal medya platformu için yapı oluşturmak.
 - Daha iyi doğruluk için gelişmiş makine öğrenimi modellerini entegre etmek.
 
-[Melisa Demir] (https://github.com/melisadmr) ve [Duygu Gözde KAYABAŞI](https://github.com/Duygugozde33) tarafından geliştirilmiştir.
+[Melisa Demir](https://github.com/melisadmr) ve [Duygu Gözde KAYABAŞI](https://github.com/Duygugozde33) tarafından geliştirilmiştir.
 Bu proje hakkında sorular ve görüşleriniz için bizimle iletişime geçmeyi unutmayın!! 😊

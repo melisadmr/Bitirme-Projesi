@@ -3,11 +3,11 @@ Bu proje, Twitter(x),Telegram ve Reddit platformlarından gerçek zamanlı veri 
 
 ## Table of Contents
 
-- [Giriş](#giris)
-- [Özellikler](#ozellikler)
-- [Kullanılan Teknolojiler](#kullanilan-teknolojiler)
-- [Proje Arayüzü](#proje-arayuzu)
-- [Gelecekteki Çalışmalar](#gelecekteki-calismalar)
+- [Giriş](#giriş)
+- [Özellikler](#özellikler)
+- [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
+- [Proje Arayüzü](#proje-arayüzü)
+- [Gelecekteki Çalışmalar](#gelecekteki-calışmalar)
 ## Giriş
 
 Sosyal medya platformları hem etkileşim hem de kötü amaçlı faaliyetler için bir merkez haline geldi. Bu proje, gerçek zamanlı veri işleme ve makine öğrenimi kullanarak 

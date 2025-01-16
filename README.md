@@ -1,19 +1,13 @@
 # Sosyal Medya Tehdit Analizi Projesi
 Bu proje, Twitter(x),Telegram ve Reddit platformlarından gerçek zamanlı veri çekme ve bu verileri doğal dil işleme (NLP) teknikleriyle analiz ederek tehdit içeriklerini tespit etme amacı taşır. Proje, Python programlama dili kullanılarak geliştirilmiş ve çeşitli kütüphanelerle desteklenmiştir.
-## Özellikler
-
-# Sosyal Medya Tehdit Analizi Projesi
-
-Bu proje, gelişmiş veri toplama, düzenleme ve doğal dil işleme (NLP) tekniklerini kullanarak sosyal medya platformlarındaki tehditleri analiz etmeyi amaçlamaktadır.
 
 ## Table of Contents
 
 - [Giriş](#giris)
 - [Özellikler](#ozellikler)
 - [Kullanılan Teknolojiler](#kullanilan-teknolojiler)
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanim)
-- [Gelecekteki Çalışmalar](#gelecekteki-iyilestirmeler)
+- [Proje Arayüzü](#proje-arayuzu)
+- [Gelecekteki Çalışmalar](#gelecekteki-calismalar)
 ## Giriş
 
 Sosyal medya platformları hem etkileşim hem de kötü amaçlı faaliyetler için bir merkez haline geldi. Bu proje, gerçek zamanlı veri işleme ve makine öğrenimi kullanarak 
@@ -33,9 +27,7 @@ Analiz şunlara odaklanır:
 ## Kullanılan Teknolojiler
 
 - **Programlama Dilleri**: Python,
-- **Kütüphaneler**: Pandas, NumPy, Scikit-learn, Matplotlib, Flask
-- **Tools**:  
-- **Veri Seti**: 
+- **Kütüphaneler**: Pandas, NumPy, Scikit-learn, Matplotlib,Praw,Telethon
 - **Diğer**: Gerçek zamanlı veri çekmek için API'ler
 
 ## Proje Arayüzü
